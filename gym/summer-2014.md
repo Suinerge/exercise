@@ -1,14 +1,15 @@
 # SUMMER SCHEME 2014
 
-## Definitions
-  Symbole:       Meaning:
-  ?             Not defined
-  (f)           Failure / burnout set
-  (s)           Super set
-  (g)           Giant set
-  (d)           Drop set
-  (c)           Circuit set
-  (b)           Bodyweight
+### Definitions
+| Symbole:  | Meaning:              |
+| --------- | --------------------- |
+| ?         | Not defined           |
+| (f)       | Failure / burnout set |
+| (s)       | Super set             |
+| (g)       | Giant set             |
+| (d)       | Drop set              |
+| (c)       | Circuit set           |
+| (b)       | Bodyweight            |
 
 ### Monday:     Chest
   * Benchpress / Flat dumbbell press    4x10
