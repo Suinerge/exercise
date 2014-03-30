@@ -14,7 +14,7 @@ Symbole:  | Meaning:
 =
 
 ### Monday:     Chest
-Excersise                         | Sets x reps 
+Exercise                          | Sets x reps 
 --------------------------------- | -----------
 Benchpress / Flat dumbbell press  | 4x10
 Incline dumbbell press            | 4x10
@@ -30,7 +30,7 @@ Cardio + abs                      | `?`x`?`
 =
 
 ### Tuesday:    Back
-Excersise                         | Sets x reps 
+Exercise                          | Sets x reps 
 --------------------------------- | -----------
 Muscle ups                        | `?`x`?`
 Pull ups `f`                      | `?`x150
@@ -46,7 +46,7 @@ Cardio + abs                      | `?`x`?`
 =
 
 ### Thursday:   Shoulders & abs
-Excersise                         | Sets x reps 
+Exercise                          | Sets x reps 
 --------------------------------- | -----------
 Push ups `f`                      | `?`x100
 Dumbbell press                    | 4x10
@@ -62,7 +62,7 @@ Misc.                             | `?`x`?`
 =
 
 ### Friday:     Biceps & triceps
-Excersise                         | Sets x reps 
+Exercise                          | Sets x reps 
 --------------------------------- | -----------
 21's                              | 4x21
 Tricep extensions                 | 4x20
@@ -76,7 +76,7 @@ Cardio + abs                      | `?`x`?`
 =
 
 ### Saturday:   Legs
-Excersise                         | Sets x reps 
+Exercise                          | Sets x reps 
 --------------------------------- | -----------
 Squats                            | 4x10          
 Lunges                            | 4x10        
